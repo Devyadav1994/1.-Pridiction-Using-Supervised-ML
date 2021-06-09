@@ -1,1 +1,1 @@
-# 1.-Pridiction-Using-Supervised-ML
+# 1.-Pridiction Using Supervised ML
